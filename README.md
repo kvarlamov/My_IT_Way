@@ -77,7 +77,9 @@ A complete log of my development skills, learning...
 |            Status           |   Year     | Course                                                          |
 |:---------------------------:|:-----------|:----------------------------------------------------------------|
 | ![Completed][Completed]     | 2019       | [Geekbrains. C# Developer]                                      |
-| ![In Progress][In Progress] | 2020       | C# Developer,  Advanced level                                   |
+| ![Completed][Completed]     | 2020       | Udemi - JavaScript                                              |
+| ![Completed][Completed]     | 2020       | Udemi - Angular                                                 |
+| ![In Progress][In Progress] | 2020       | Otus - C# Developer,  Advanced level                            |
 | ![Soon][Soon]               |            | [Структура и интерпретация компьютерных программ]               |
 
 [//]: # (Reference links to courses)
