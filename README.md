@@ -95,6 +95,7 @@ A complete log of my development skills, learning...
 - CLR via C# by Jeffrey Richter
 - Troelsen - Pro C# 5.0 and the .NET 4.5 Framework
 - А. Дэвис – Асинхронное програмирование в C# 5.0;
+- Introduction to Algorithms by Thomas H. Cormen
 - Computer science. An overview – J. Glenn Brookshear
 - C. Petzold – The Hidden Language of Computer Hardware and Software
 - Introduction to computer science – Yale N. Patt, Sanjay J. Patel
