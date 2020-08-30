@@ -7,17 +7,17 @@ A complete log of my development skills, learning...
 [MY-PORTFOLIO](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md)
 
 ## NAVIGATION:
-`[Backend Skills](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#backend-skills)
+- [Backend Skills](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#backend-skills)
 
-`[Frontend Skills](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#frontend-skills)
+- [Frontend Skills](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#frontend-skills)
 
-`[Learning](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning)
+- [Learning](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning)
 
-`[Acknowledgments](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#acknowledgments)
+- [Acknowledgments](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#acknowledgments)
 
-`[Books](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#books)
+- [Books](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#books)
 
-`[Thanks](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#thanks)
+- [Thanks](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#thanks)
 
 ----
 [//]: # (Status images)
@@ -28,6 +28,7 @@ A complete log of my development skills, learning...
 |               Skill              | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|:----------------:|:----------------:|
 |**C#**                            | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**Multithreading programming**    | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**ASP.NET MVC**                   | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**WCF**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**SQL**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
