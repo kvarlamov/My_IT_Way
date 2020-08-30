@@ -13,11 +13,11 @@ A complete log of my development skills, learning...
 
 - [Learning](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning)
 
-- [Acknowledgments](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#acknowledgments)
+- [Acknowledgments](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#acknowledgments)
 
-- [Books](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#books)
+- [Books](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#books)
 
-- [Thanks](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#thanks)
+- [Thanks](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#thanks)
 
 ----
 [//]: # (Status images)
