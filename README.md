@@ -11,6 +11,9 @@ NAVIGATION:
 [Frontend Skills](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md#frontend)
 
 ----
+[//]: # (Status images)
+
+[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
 ## Backend Skills
 |               Skill              | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
@@ -30,7 +33,6 @@ NAVIGATION:
 
 ## Frontend Skills
 
-[done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 |               Skill              | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|:----------------:|:----------------:|
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
