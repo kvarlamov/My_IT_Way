@@ -90,5 +90,5 @@ A complete log of my development skills, learning...
 
 
 ### Thanks.
-I used the material from Syknapse's page. Thanks 
+I took inspiration from Syknapse's page. Thanks 
 https://github.com/Syknapse/My-Learning-Tracker
