@@ -6,9 +6,18 @@ A complete log of my development skills, learning...
 
 [MY-PORTFOLIO](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md)
 
-NAVIGATION:
-[Backend Skills](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md#backend)
-[Frontend Skills](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md#frontend)
+## NAVIGATION:
+*[Backend Skills](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#backend-skills)
+
+*[Frontend Skills](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#frontend-skills)
+
+*[Learning](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning)
+
+*[Acknowledgments](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#acknowledgments)
+
+*[Books](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#books)
+
+*[Thanks](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#learning#thanks)
 
 ----
 [//]: # (Status images)
