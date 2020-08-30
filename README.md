@@ -49,7 +49,7 @@ A complete log of my development skills, learning...
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**Angular **                      | ![done][done]     |                        |                  |
+|**Angular**                       | ![done][done]     |                        |                  |
 |**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
