@@ -45,14 +45,14 @@ A complete log of my development skills, learning...
 
 |               Skill              | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|:----------------:|:----------------:|
-|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
+|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**Angular**                       | ![done][done]     |                        |                  |
 |**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Gulp/Webpack**                  | ![done][done]     |                        |                  |                  |                  |
 |**NPM**                           | ![done][done]     |                        |                  |                  |                  |
@@ -60,6 +60,9 @@ A complete log of my development skills, learning...
 |**Website Building**              | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Publishing website**            | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Bootstrap**                     | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**DevExpress**                    | ![done][done]     |                        |                  |                  |                  |
+|**WinForms**                      | ![done][done]     |                        |                  |                  |                  |
+|**WPF**                           | ![done][done]     | ![done][done]          |                  |                  |                  |
 
 ----
 
