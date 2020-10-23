@@ -25,22 +25,24 @@ A complete log of my development skills, learning...
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
 ## Backend Skills
-|               Skill              | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
-|:-------------------------------- |:-----------------:|:----------------------:|:----------------:|:----------------:|:----------------:|
-|**C#**                            | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**Multithreading programming**    | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**ASP.NET MVC**                   | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**WCF**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**SQL**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**MSSQL Server**                  | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**PostgreSQL**                    | ![done][done]     |                        |                  |                  |                  |
-|**ADO.NET**                       | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**Entity framework (code first)** | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**Entity framework (DB first)**   | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**OOP**                           | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**Algorithms**                    | ![done][done]     |                        |                  |                  |                  |
-|**Data structures**               | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|               Skill                 | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
+|:----------------------------------- |:-----------------:|:----------------------:|:----------------:|:----------------:|:----------------:|
+|**C#**                               | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**Multithreading programming**       | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Thread synchronization primitives**| ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Async programming**                | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**ASP.NET MVC**                      | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**WCF**                              | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**SQL**                              | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**MSSQL Server**                     | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**PostgreSQL**                       | ![done][done]     |                        |                  |                  |                  |
+|**ADO.NET**                          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**Entity framework (code first)**    | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Entity framework (DB first)**      | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**OOP**                              | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Algorithms**                       | ![done][done]     |                        |                  |                  |                  |
+|**Data structures**                  | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Git**                              | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 
 
 ## Frontend Skills
