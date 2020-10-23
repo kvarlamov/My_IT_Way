@@ -27,7 +27,7 @@ Here is a complete log of my development skills, learning etc...
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
 ## Backend Skills
-|               Skill                 | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
+|               Skill \ Level         | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
 |:----------------------------------- |:-----------------:|:----------------------:|:----------------:|:----------------:|:----------------:|
 |**C#**                               | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Multithreading programming**       | ![done][done]     | ![done][done]          |                  |                  |                  |
