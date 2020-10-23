@@ -39,6 +39,7 @@ Here is a complete log of my development skills, learning etc...
 |**Thread synchronization primitives**| ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Async programming**                | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**ASP.NET MVC**                      | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**Windows Service**                  | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**WCF**                              | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**SQL**                              | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**MSSQL Server**                     | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
