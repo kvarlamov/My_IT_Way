@@ -105,6 +105,7 @@ A complete log of my development skills, learning...
 - C. Petzold – The Hidden Language of Computer Hardware and Software
 - Introduction to computer science – Yale N. Patt, Sanjay J. Patel
 - Tanenbaum - Computer architecture
+- Tanenbaum - Modern Operating Systems
 
 ### Thanks.
 I took inspiration from Syknapse's page. Thanks 
