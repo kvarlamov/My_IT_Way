@@ -2,7 +2,9 @@
 
 **THIS PAGE IN DEVELOPMENT YET ;)
 
-A complete log of my development skills, learning...
+In 2019 I started learning programming. At the end of the year, I quit my old job as an engineer and start use all my free time to learn programming. In 2020 I got my first commerce offer as .NET Fullstack developer.
+
+Here is a complete log of my development skills, learning etc...
 
 [MY-PORTFOLIO](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md)
 
