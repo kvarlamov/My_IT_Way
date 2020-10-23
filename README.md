@@ -7,6 +7,7 @@ In 2019 I started to learn programming. At the end of the year 2019, I quit my o
 Here is a complete log of my development skills, learning etc...
 
 [MY-PORTFOLIO](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md)
+
 [Projects](https://github.com/kvarlamov)
 
 ## NAVIGATION:
