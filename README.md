@@ -2,7 +2,7 @@
 
 **THIS PAGE IN DEVELOPMENT YET ;)
 
-In 2019 I started learning programming. At the end of the year, I quit my old job as an engineer and start use all my free time to learn programming. In 2020 I got my first commerce offer as .NET Fullstack developer.
+In 2019 I started to learn programming. At the end of the year 2019, I quit my old job as an engineer and start use all my free time to learn programming. In 2020 I got my first commerce offer as .NET Fullstack developer.
 
 Here is a complete log of my development skills, learning etc...
 
