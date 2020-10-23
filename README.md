@@ -10,6 +10,8 @@ Here is a complete log of my development skills, learning etc...
 
 [Projects](https://github.com/kvarlamov)
 
+[LinkedIn](https://www.linkedin.com/in/konstantin-varlamov-a031b2195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSdZt35eLT5imj3bVazq1ng%3D%3D)
+
 ## NAVIGATION:
 - [Backend Skills](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#backend-skills)
 
