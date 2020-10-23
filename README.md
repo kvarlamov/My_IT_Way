@@ -32,6 +32,8 @@ A complete log of my development skills, learning...
 |**ASP.NET MVC**                   | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**WCF**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**SQL**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**MSSQL Server**                  | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**PostgreSQL**                    | ![done][done]     |                        |                  |                  |                  |
 |**ADO.NET**                       | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Entity framework (code first)** | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Entity framework (DB first)**   | ![done][done]     | ![done][done]          |                  |                  |                  |
