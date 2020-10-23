@@ -7,12 +7,11 @@ In 2019 I started to learn programming. At the end of the year 2019, I quit my o
 Here is a complete log of my development skills, learning etc...
 
 ## Links:
+- [MY-PORTFOLIO](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md)
 
-[MY-PORTFOLIO](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md)
+- [Projects](https://github.com/kvarlamov)
 
-[Projects](https://github.com/kvarlamov)
-
-[LinkedIn](https://www.linkedin.com/in/konstantin-varlamov-a031b2195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSdZt35eLT5imj3bVazq1ng%3D%3D)
+- [LinkedIn](https://www.linkedin.com/in/konstantin-varlamov-a031b2195?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSdZt35eLT5imj3bVazq1ng%3D%3D)
 
 ## NAVIGATION:
 - [Backend Skills](https://github.com/kvarlamov/My_IT_Way/blob/master/README.md#backend-skills)
