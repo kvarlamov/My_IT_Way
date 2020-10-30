@@ -7,7 +7,7 @@ In 2019 I started to learn programming. At the end of the year 2019, I quit my o
 Here is a complete log of my development skills, learning etc...
 
 ## Links:
-- [MY-PORTFOLIO](https://github.com/kvarlamov/My_IT_Way/edit/master/README.md)
+- [MY-PORTFOLIO](https://yadi.sk/i/rx_sSmMs6U_quQ)
 
 - [Projects](https://github.com/kvarlamov)
 
@@ -93,12 +93,15 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2020       | Udemi - JavaScript                                              |
 | ![Completed][Completed]     | 2020       | Udemi - Angular                                                 |
 | ![In Progress][In Progress] | 2020       | Otus - C# Developer,  Advanced level                            |
+| ![In Progress][In Progress] | 2020       | [CLRium #6: Concurrency & Parallelism]                          |
 | ![Soon][Soon]               |            | [Структура и интерпретация компьютерных программ]               |
 
 [//]: # (Reference links to courses)
 
 [Geekbrains. C# Developer]: https://geekbrains.ru/professions/microsoft_developer
+[CLRium #6: Concurrency & Parallelism]:https://www.youtube.com/watch?v=g-PgS86joD8&list=PLBwwJL9lzKMY9Fpk1DAscywid1Xshp9NL&index=1 
 [Структура и интерпретация компьютерных программ]:https://ru.hexlet.io/courses/sicp
+
 
 ----
 
