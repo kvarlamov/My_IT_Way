@@ -93,6 +93,7 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2020       | Udemi - JavaScript                                              |
 | ![Completed][Completed]     | 2020       | Udemi - Angular                                                 |
 | ![In Progress][In Progress] | 2020       | Otus - C# Developer,  Advanced level                            |
+| ![In Progress][In Progress] | 2020       | Otus - JavaScript Developer,  Advanced level                    |
 | ![In Progress][In Progress] | 2020       | [CLRium #6: Concurrency & Parallelism]                          |
 | ![Soon][Soon]               |            | [Структура и интерпретация компьютерных программ]               |
 
@@ -117,6 +118,7 @@ Here is a complete log of my development skills, learning etc...
 - Introduction to computer science – Yale N. Patt, Sanjay J. Patel
 - Tanenbaum - Computer architecture
 - Tanenbaum - Modern Operating Systems
+- Aditya Bhargava - Grokking Algorithms
 
 ### Thanks.
 I took inspiration from Syknapse's page. Thanks 
