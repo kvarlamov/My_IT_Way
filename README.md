@@ -92,7 +92,7 @@ Here is a complete log of my development skills, learning etc...
 |:---------------------------:|:-----------|:----------------------------------------------------------------|
 | ![Completed][Completed]     | 2019       | [Geekbrains. C# Developer]                                      |
 | ![Completed][Completed]     | 2020       | Udemi - JavaScript                                              |
-| ![Completed][Completed]     | 2020       | Udemi - Angular                                                 |
+| ![Completed][Completed]     | 2020       | Udemi - Angular introduction                                    |
 | ![Completed][Completed]     | 2020       | Otus - C# Developer,  Advanced level                            |
 | ![Completed][Completed]     | 2021       | [executeprogram.com - modern-javascript]                        |
 | ![Completed][Completed]     | 2021       | [executeprogram.com - javascript-array]                         |
