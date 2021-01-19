@@ -93,11 +93,11 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2019       | [Geekbrains. C# Developer]                                      |
 | ![Completed][Completed]     | 2020       | Udemi - JavaScript                                              |
 | ![Completed][Completed]     | 2020       | Udemi - Angular                                                 |
-| ![Completed][In Progress]   | 2020       | Otus - C# Developer,  Advanced level                            |
+| ![Completed][Completed]     | 2020       | Otus - C# Developer,  Advanced level                            |
 | ![Completed][Completed]     | 2021       | [executeprogram.com - modern-javascript]                        |
 | ![Completed][Completed]     | 2021       | [executeprogram.com - javascript-array]                         |
 | ![Completed][Completed]     | 2021       | [executeprogram.com - javascript-concurrency]                   |
-|
+|                             |            |                                                                 |
 | ![In Progress][In Progress] | 2020       | Otus - JavaScript Developer,  Advanced level                    |
 | ![In Progress][In Progress] | 2020       | [CLRium #6: Concurrency & Parallelism]                          |
 | ![In Progress][In Progress] | 2020       | [Структура и интерпретация компьютерных программ]               |
