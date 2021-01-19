@@ -101,13 +101,13 @@ Here is a complete log of my development skills, learning etc...
 |                             |            |                                                                 |
 | ![In Progress][In Progress] | 2020       | Otus - JavaScript Developer,  Advanced level                    |
 | ![In Progress][In Progress] | 2020       | [CLRium #6: Concurrency & Parallelism]                          |
-| ![In Progress][In Progress] | 2020       | [Структура и интерпретация компьютерных программ]               |
+| ![In Progress][In Progress] | 2020       | [Структура и интерпретация компьютерных программ (SICP)]        |
 
 [//]: # (Reference links to courses)
 
 [Geekbrains. C# Developer]: https://geekbrains.ru/professions/microsoft_developer
 [CLRium #6: Concurrency & Parallelism]:https://www.youtube.com/watch?v=g-PgS86joD8&list=PLBwwJL9lzKMY9Fpk1DAscywid1Xshp9NL&index=1 
-[Структура и интерпретация компьютерных программ]:https://ru.hexlet.io/courses/sicp
+[Структура и интерпретация компьютерных программ (SICP)]:https://ru.hexlet.io/courses/sicp
 [executeprogram.com - modern-javascript]:https://www.executeprogram.com/courses/modern-javascript
 [executeprogram.com - javascript-array]:https://www.executeprogram.com/courses/javascript-array
 [executeprogram.com - javascript-concurrency]:https://www.executeprogram.com/courses/javascript-concurrency
