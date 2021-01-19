@@ -60,6 +60,7 @@ Here is a complete log of my development skills, learning etc...
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**Vue**                           | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**Angular**                       | ![done][done]     |                        |                  |                  |                  |
 |**Working with plugins**          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
@@ -92,18 +93,23 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2019       | [Geekbrains. C# Developer]                                      |
 | ![Completed][Completed]     | 2020       | Udemi - JavaScript                                              |
 | ![Completed][Completed]     | 2020       | Udemi - Angular                                                 |
-| ![In Progress][In Progress] | 2020       | Otus - C# Developer,  Advanced level                            |
+| ![Completed][In Progress]   | 2020       | Otus - C# Developer,  Advanced level                            |
+| ![Completed][Completed]     | 2021       | [executeprogram.com - modern-javascript]                        |
+| ![Completed][Completed]     | 2021       | [executeprogram.com - javascript-array]                         |
+| ![Completed][Completed]     | 2021       | [executeprogram.com - javascript-concurrency]                   |
+|
 | ![In Progress][In Progress] | 2020       | Otus - JavaScript Developer,  Advanced level                    |
 | ![In Progress][In Progress] | 2020       | [CLRium #6: Concurrency & Parallelism]                          |
-| ![Soon][Soon]               |            | [Структура и интерпретация компьютерных программ]               |
+| ![In Progress][In Progress] | 2020       | [Структура и интерпретация компьютерных программ]               |
 
 [//]: # (Reference links to courses)
 
 [Geekbrains. C# Developer]: https://geekbrains.ru/professions/microsoft_developer
 [CLRium #6: Concurrency & Parallelism]:https://www.youtube.com/watch?v=g-PgS86joD8&list=PLBwwJL9lzKMY9Fpk1DAscywid1Xshp9NL&index=1 
 [Структура и интерпретация компьютерных программ]:https://ru.hexlet.io/courses/sicp
-
-
+[executeprogram.com - modern-javascript]:https://www.executeprogram.com/courses/modern-javascript
+[executeprogram.com - javascript-array]:https://www.executeprogram.com/courses/javascript-array
+[executeprogram.com - javascript-concurrency]:https://www.executeprogram.com/courses/javascript-concurrency
 ----
 
 ### Acknowledgments
