@@ -127,6 +127,7 @@ Here is a complete log of my development skills, learning etc...
 - Tanenbaum - Computer architecture
 - Tanenbaum - Modern Operating Systems
 - Aditya Bhargava - Grokking Algorithms
+- Andrew Hunt - The Pragmatic Programmer
 
 ### Thanks.
 I took inspiration from Syknapse's page. Thanks 
