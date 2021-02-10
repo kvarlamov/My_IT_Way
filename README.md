@@ -97,12 +97,12 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2021       | [executeprogram.com - modern-javascript]                        |
 | ![Completed][Completed]     | 2021       | [executeprogram.com - javascript-array]                         |
 | ![Completed][Completed]     | 2021       | [executeprogram.com - javascript-concurrency]                   |
-| ![In Progress][In Progress] | 2021       | [Структура и интерпретация компьютерных программ (SICP)]        |
+| ![Completed][Completed]     | 2021       | [Структура и интерпретация компьютерных программ (SICP)]        |
 | ![Completed][Completed]     | 2021       | [Vue mastery - Intro to Vue]                                    |
 |                             |            |                                                                 |
 | ![In Progress][In Progress] | 2020       | Otus - JavaScript Developer,  Advanced level                    |
 | ![In Progress][In Progress] | 2020       | [CLRium #6: Concurrency & Parallelism]                          |
-| ![In Progress][Completed]   | 2021       | [Vue mastery - Real world Vue 2]                                |
+| ![In Progress][In Progress] | 2021       | [Vue mastery - Real world Vue 2]                                |
 
 
 [//]: # (Reference links to courses)
