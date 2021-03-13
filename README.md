@@ -69,7 +69,7 @@ Here is a complete log of my development skills, learning etc...
 |**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Gulp/Webpack**                  | ![done][done]     |                        |                  |                  |                  |
-|**NPM**                           | ![done][done]     |                        |                  |                  |                  |
+|**NPM**                           | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Working with APIs**             | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Website Building**              | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Publishing website**            | ![done][done]     | ![done][done]          |                  |                  |                  |
@@ -99,10 +99,15 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2021       | [executeprogram.com - javascript-concurrency]                   |
 | ![Completed][Completed]     | 2021       | [Структура и интерпретация компьютерных программ (SICP)]        |
 | ![Completed][Completed]     | 2021       | [Vue mastery - Intro to Vue]                                    |
+| ![Completed][Completed]     | 2021       | [Vue mastery - Real world Vue 2]                                |
+| ![Completed][Completed]     | 2021       | [Vue mastery - Real world Vue 2]                                |
+| ![Completed][Completed]     | 2021       | [Vue mastery - Mastering Vuex]                                  |
 |                             |            |                                                                 |
 | ![In Progress][In Progress] | 2020       | Otus - JavaScript Developer,  Advanced level                    |
+| ![In Progress][In Progress] | 2020       | Otus - Algorithms for developers                                |
+| ![In Progress][In Progress] | 2020       | Yandex.Practicum - Algorithms                                   |
 | ![In Progress][In Progress] | 2020       | [CLRium #6: Concurrency & Parallelism]                          |
-| ![In Progress][In Progress] | 2021       | [Vue mastery - Real world Vue 2]                                |
+| ![In Progress][In Progress] | 2021       | [Vue mastery - Next-Level Vue]                                  |
 
 
 [//]: # (Reference links to courses)
@@ -120,16 +125,21 @@ Here is a complete log of my development skills, learning etc...
 ### Acknowledgments
 
 ### Books
+C#
 - CLR via C# by Jeffrey Richter
 - Troelsen - Pro C# 5.0 and the .NET 4.5 Framework
+- Jon Skeet - c# in depth
 - А. Дэвис – Асинхронное програмирование в C# 5.0;
+Algorithms
 - Introduction to Algorithms by Thomas H. Cormen
+- Aditya Bhargava - Grokking Algorithms
+- Rod Stephens - Essential Algorithms
+Computer Science
 - Computer science. An overview – J. Glenn Brookshear
 - C. Petzold – The Hidden Language of Computer Hardware and Software
 - Introduction to computer science – Yale N. Patt, Sanjay J. Patel
 - Tanenbaum - Computer architecture
 - Tanenbaum - Modern Operating Systems
-- Aditya Bhargava - Grokking Algorithms
 - Andrew Hunt - The Pragmatic Programmer
 
 ### Thanks.
