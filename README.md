@@ -100,7 +100,6 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2021       | [Структура и интерпретация компьютерных программ (SICP)]        |
 | ![Completed][Completed]     | 2021       | [Vue mastery - Intro to Vue]                                    |
 | ![Completed][Completed]     | 2021       | [Vue mastery - Real world Vue 2]                                |
-| ![Completed][Completed]     | 2021       | [Vue mastery - Real world Vue 2]                                |
 | ![Completed][Completed]     | 2021       | [Vue mastery - Mastering Vuex]                                  |
 |                             |            |                                                                 |
 | ![In Progress][In Progress] | 2020       | Otus - JavaScript Developer,  Advanced level                    |
@@ -120,6 +119,8 @@ Here is a complete log of my development skills, learning etc...
 [executeprogram.com - javascript-concurrency]:https://www.executeprogram.com/courses/javascript-concurrency
 [Vue mastery - Intro to Vue]:https://www.vuemastery.com/courses/intro-to-vue-js/
 [Vue mastery - Real world Vue 2]:https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro/
+[Vue mastery - Mastering Vuex]:https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex/
+[Vue mastery - Next-Level Vue]:https://www.vuemastery.com/courses/next-level-vue/next-level-vue-orientation/
 ----
 
 ### Acknowledgments
