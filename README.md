@@ -131,10 +131,12 @@ C#
 - Troelsen - Pro C# 5.0 and the .NET 4.5 Framework
 - Jon Skeet - c# in depth
 - А. Дэвис – Асинхронное програмирование в C# 5.0;
+
 Algorithms
 - Introduction to Algorithms by Thomas H. Cormen
 - Aditya Bhargava - Grokking Algorithms
 - Rod Stephens - Essential Algorithms
+
 Computer Science
 - Computer science. An overview – J. Glenn Brookshear
 - C. Petzold – The Hidden Language of Computer Hardware and Software
