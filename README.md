@@ -144,6 +144,7 @@ Computer Science
 - Tanenbaum - Computer architecture
 - Tanenbaum - Modern Operating Systems
 - Andrew Hunt - The Pragmatic Programmer
+- Roy Osherove - The art of unit testing in .NET
 
 ### Thanks.
 I took inspiration from Syknapse's page. Thanks 
