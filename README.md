@@ -131,6 +131,7 @@ C#
 - Troelsen - Pro C# 5.0 and the .NET 4.5 Framework
 - Jon Skeet - c# in depth
 - А. Дэвис – Асинхронное програмирование в C# 5.0;
+- Roy Osherove - The art of unit testing in .NET
 
 Algorithms
 - Introduction to Algorithms by Thomas H. Cormen
@@ -144,7 +145,6 @@ Computer Science
 - Tanenbaum - Computer architecture
 - Tanenbaum - Modern Operating Systems
 - Andrew Hunt - The Pragmatic Programmer
-- Roy Osherove - The art of unit testing in .NET
 
 ### Thanks.
 I took inspiration from Syknapse's page. Thanks 
