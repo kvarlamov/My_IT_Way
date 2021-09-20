@@ -1,2 +1,4 @@
 17/09/2021
   - Read documentation about .Net deployment, MSBuild eth 
+20/09/2021
+  - Richter - .Net basics (asseblies, metadata, manifest, deployment...)
