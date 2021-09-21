@@ -4,4 +4,4 @@
   - Richter - .Net basics (asseblies, metadata, manifest, deployment...)
 21/09/2021
   - SOA
-  - RabbitMQ. Routing
+  - RabbitMQ. Routing + Topics
