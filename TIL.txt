@@ -2,3 +2,6 @@
   - Read documentation about .Net deployment, MSBuild eth 
 20/09/2021
   - Richter - .Net basics (asseblies, metadata, manifest, deployment...)
+21/09/2021
+  - SOA
+  - RabbitMQ. Routing
