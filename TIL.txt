@@ -7,3 +7,4 @@
   - RabbitMQ. Routing + Topics
 23/09/2021
   - WCF. in-depth studying
+  - Rabbit. RPC
