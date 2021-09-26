@@ -8,3 +8,5 @@
 23/09/2021
   - WCF. in-depth studying
   - Rabbit. RPC
+26/09/2021
+  - Http, tcp/ip, dns - repeat and in-depth studying
