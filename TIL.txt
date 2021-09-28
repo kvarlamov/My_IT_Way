@@ -12,3 +12,4 @@
   - Http, tcp/ip, dns - repeat and in-depth studying
 28/09/2021
   - Some basics about Architecture
+  - PowerShell basics
