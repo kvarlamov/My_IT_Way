@@ -10,3 +10,5 @@
   - Rabbit. RPC
 26/09/2021
   - Http, tcp/ip, dns - repeat and in-depth studying
+28/09/2021
+  - Some basics about Architecture
