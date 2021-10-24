@@ -13,3 +13,8 @@
 28/09/2021
   - Some basics about Architecture
   - PowerShell basics
+  
+ VACATION...
+ 
+24/10/2021
+  - RememberDay - CLR
