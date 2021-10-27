@@ -20,3 +20,5 @@
   - RememberDay - CLR
 26/10/2021
   - refresh memory about moq
+27/10/2021
+  - Angular basics
