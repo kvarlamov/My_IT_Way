@@ -23,4 +23,4 @@
 27/10/2021
   - Angular basics
 28/10/2021
-  - Angular basics course
+  - Angular basics course. Typescritp basics
