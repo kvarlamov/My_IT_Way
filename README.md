@@ -60,9 +60,10 @@ Here is a complete log of my development skills, learning etc...
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**TypeScript**                    | ![done][done]     |                        |                  |                  |                  |
 |**Vue**                           | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**Angular**                       | ![done][done]     |                        |                  |                  |                  |
+|**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**Working with plugins**          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
@@ -101,12 +102,13 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2021       | [Vue mastery - Intro to Vue]                                    |
 | ![Completed][Completed]     | 2021       | [Vue mastery - Real world Vue 2]                                |
 | ![Completed][Completed]     | 2021       | [Vue mastery - Mastering Vuex]                                  |
+| ![Completed][Completed]     | 2021       | [Vue mastery - Next-Level Vue]                                  |
 |                             |            |                                                                 |
 | ![In Progress][In Progress] | 2020       | Otus - JavaScript Developer,  Advanced level                    |
 | ![In Progress][In Progress] | 2020       | Otus - Algorithms for developers                                |
 | ![In Progress][In Progress] | 2020       | Yandex.Practicum - Algorithms                                   |
 | ![In Progress][In Progress] | 2020       | [CLRium #6: Concurrency & Parallelism]                          |
-| ![In Progress][In Progress] | 2021       | [Vue mastery - Next-Level Vue]                                  |
+| ![In Progress][In Progress] | 2021       | Udemy - Angular                                                 |
 
 
 [//]: # (Reference links to courses)
