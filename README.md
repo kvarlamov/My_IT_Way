@@ -35,8 +35,8 @@ Here is a complete log of my development skills, learning etc...
 |               Skill \ Level         | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
 |:----------------------------------- |:-----------------:|:----------------------:|:----------------:|:----------------:|:----------------:|
 |**C#**                               | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**Multithreading programming**       | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**Thread synchronization primitives**| ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Multythreading programming**       | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Thread synchronization primitives**| ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Async programming**                | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**ASP.NET MVC**                      | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Windows Service**                  | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
@@ -50,7 +50,7 @@ Here is a complete log of my development skills, learning etc...
 |**OOP**                              | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Algorithms**                       | ![done][done]     |                        |                  |                  |                  |
 |**Data structures**                  | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**Git**                              | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**Git**                              | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 
 
 ## Frontend Skills
