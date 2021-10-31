@@ -28,4 +28,5 @@
   - Angular basics course. Components,Directives, Pipes
 30/10/2021
   - RxJS basics
- 
+31/10/2021
+  - Angular basics course. Services.Forms
