@@ -30,3 +30,5 @@
   - RxJS basics
 31/10/2021
   - Angular basics course. Services.Forms
+01/11/2021
+  - Angular basics course. HttpClient
