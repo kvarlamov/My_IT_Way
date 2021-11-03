@@ -34,5 +34,6 @@
   - Angular basics course. HttpClient
 02/11/2021
   - Angular basics course. HttpClient
+  - refresh memory about Http and learn something new
 03/11/2021
   - Angular basics course. HttpClient Finished
