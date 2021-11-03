@@ -32,3 +32,7 @@
   - Angular basics course. Services.Forms
 01/11/2021
   - Angular basics course. HttpClient
+02/11/2021
+  - Angular basics course. HttpClient
+03/11/2021
+  - Angular basics course. HttpClient Finished
