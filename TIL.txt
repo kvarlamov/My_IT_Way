@@ -37,3 +37,7 @@
   - refresh memory about Http and learn something new
 03/11/2021
   - Angular basics course. HttpClient Finished
+01/12/2021
+  - SSL handshake
+03/12/2021
+  - asp.net core - in-depth studiing
