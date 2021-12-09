@@ -41,3 +41,8 @@
   - SSL handshake
 03/12/2021
   - asp.net core - in-depth studiing
+08/12/2021
+  - linq - in-depth
+09/12/2021
+  - pattern strategy
+
