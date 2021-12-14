@@ -45,4 +45,9 @@
   - linq - in-depth
 09/12/2021
   - pattern strategy
-
+12/12/2021
+  - pattern iterator
+13/12/2021
+  - Serialization .NET
+14/12/2021
+  - TDD practicing
