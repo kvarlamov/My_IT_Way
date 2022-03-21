@@ -60,9 +60,9 @@ Here is a complete log of my development skills, learning etc...
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**TypeScript**                    | ![done][done]     |                        |                  |                  |                  |
+|**TypeScript**                    | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Vue**                           | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**Angular**                       | ![done][done]     |                        |                  |                  |                  |
+|**Angular**                       | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**Working with plugins**          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
@@ -103,12 +103,14 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2021       | [Vue mastery - Real world Vue 2]                                |
 | ![Completed][Completed]     | 2021       | [Vue mastery - Mastering Vuex]                                  |
 | ![Completed][Completed]     | 2021       | [Vue mastery - Next-Level Vue]                                  |
+| ![Completed][Completed]     | 2022       | Udemy - Angular                                                 |
+| ![Completed][Completed]     | 2022       | [executeprogram.com - typescript]                               |
 |                             |            |                                                                 |
-| ![In Progress][In Progress] | 2020       | Otus - JavaScript Developer,  Advanced level                    |
-| ![In Progress][In Progress] | 2020       | Otus - Algorithms for developers                                |
-| ![In Progress][In Progress] | 2020       | Yandex.Practicum - Algorithms                                   |
-| ![In Progress][In Progress] | 2020       | [CLRium #6: Concurrency & Parallelism]                          |
-| ![In Progress][In Progress] | 2021       | Udemy - Angular                                                 |
+| ![In Progress][In Progress] | 2022       | Otus - JavaScript Developer,  Advanced level                    |
+| ![In Progress][In Progress] | 2022       | Otus - Algorithms for developers                                |
+| ![In Progress][In Progress] | 2022       | Yandex.Practicum - Algorithms                                   |
+| ![In Progress][In Progress] | 2022       | ASP.NET Core Developer. Advanced                                |
+
 
 
 [//]: # (Reference links to courses)
@@ -123,6 +125,7 @@ Here is a complete log of my development skills, learning etc...
 [Vue mastery - Real world Vue 2]:https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro/
 [Vue mastery - Mastering Vuex]:https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex/
 [Vue mastery - Next-Level Vue]:https://www.vuemastery.com/courses/next-level-vue/next-level-vue-orientation/
+[executeprogram.com - typescript]:https://www.executeprogram.com/courses/typescript-basics
 ----
 
 ### Acknowledgments
