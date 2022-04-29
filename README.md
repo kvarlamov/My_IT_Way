@@ -106,10 +106,14 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2022       | Udemy - Angular                                                 |
 | ![Completed][Completed]     | 2022       | [executeprogram.com - typescript]                               |
 |                             |            |                                                                 |
+| ![In Progress][In Progress] | 2022       | ASP.NET Core Developer. Advanced                                |
+| ![In Progress][In Progress] | 2022       | Udemy - React                                                   |
+| ![In Progress][In Progress] | 2022       | Udemy - Hibernate                                               |
+| ![In Progress][In Progress] | 2022       | Udemy - Spring                                                  |
+| ![In Progress][In Progress] | 2022       | Otus - Spring                                                   |
 | ![In Progress][In Progress] | 2022       | Otus - JavaScript Developer,  Advanced level                    |
 | ![In Progress][In Progress] | 2022       | Otus - Algorithms for developers                                |
 | ![In Progress][In Progress] | 2022       | Yandex.Practicum - Algorithms                                   |
-| ![In Progress][In Progress] | 2022       | ASP.NET Core Developer. Advanced                                |
 
 
 
