@@ -70,3 +70,6 @@
 04/05/2022
   - Java. Hibernate course
   - React udemy
+05/05/2022
+  - Java. Hibernate course
+  - React udemy
