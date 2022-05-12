@@ -81,3 +81,5 @@
 11/05/2022
   - Java. Hibernate course
   - React udemy
+12/05/2022
+  - React. redux practice
