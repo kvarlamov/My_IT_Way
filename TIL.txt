@@ -83,3 +83,5 @@
   - React udemy
 12/05/2022
   - React. redux practice
+13/05/2022
+  - React. redux practice. Writing course application
