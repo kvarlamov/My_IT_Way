@@ -85,3 +85,5 @@
   - React. redux practice
 13/05/2022
   - React. redux practice. Writing course application
+14/05-20/05/2022
+  - React. Writing course application
