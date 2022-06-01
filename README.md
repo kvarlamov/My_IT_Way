@@ -63,6 +63,7 @@ Here is a complete log of my development skills, learning etc...
 |**TypeScript**                    | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Vue**                           | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Angular**                       | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 |**Working with plugins**          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
