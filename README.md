@@ -114,7 +114,7 @@ Here is a complete log of my development skills, learning etc...
 | ![In Progress][In Progress] | 2022       | Otus - Spring                                                   |
 | ![In Progress][In Progress] | 2022       | Otus - JavaScript Developer,  Advanced level                    |
 | ![In Progress][In Progress] | 2022       | Otus - Algorithms for developers                                |
-| ![In Progress][In Progress] | 2022       | Yandex.Practicum - Algorithms                                   |
+| ![In Progress][In Progress] | 2022       | [Algorithms and Data Structures Practice course]                |
 
 
 
@@ -131,6 +131,9 @@ Here is a complete log of my development skills, learning etc...
 [Vue mastery - Mastering Vuex]:https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex/
 [Vue mastery - Next-Level Vue]:https://www.vuemastery.com/courses/next-level-vue/next-level-vue-orientation/
 [executeprogram.com - typescript]:https://www.executeprogram.com/courses/typescript-basics
+[Algorithms and Data Structures Practice course]:https://academy.yandex.ru/dataschool
+[Algorithms and Data Structures Practice course]:https://www.cs.cmu.edu/~rdriley/121/syllabus
+[Algorithms and Data Structures Practice course]:https://see.stanford.edu/Course/CS106B
 ----
 
 ### Acknowledgments
