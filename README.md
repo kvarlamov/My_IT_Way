@@ -45,11 +45,11 @@ Here is a complete log of my development skills, learning etc...
 |**MSSQL Server**                     | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**PostgreSQL**                       | ![done][done]     |                        |                  |                  |                  |
 |**ADO.NET**                          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**Entity framework (code first)**    | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Entity framework (code first)**    | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Entity framework (DB first)**      | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**OOP**                              | ![done][done]     | ![done][done]          |                  |                  |                  |
-|**Algorithms**                       | ![done][done]     |                        |                  |                  |                  |
-|**Data structures**                  | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Algorithms**                       | ![done][done]     | ![done][done]          |                  |                  |                  |
+|**Data structures**                  | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Git**                              | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
 
 
@@ -57,18 +57,18 @@ Here is a complete log of my development skills, learning etc...
 
 |               Skill              | <br>Elementary    | <br>Pre-intermediate   | <br>Intermediate | <br>Advanced     | <br>Expert       |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|:----------------:|:----------------:|
-|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
-|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
+|**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
+|**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**TypeScript**                    | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Vue**                           | ![done][done]     | ![done][done]          |                  |                  |                  |
 |**Angular**                       | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
+|**jQuery**                        | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Working with plugins**          | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Responsive design**             | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
-|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    | ![done][done]    |                  |
+|**CSS Grid & Flex-box**           | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |                  |                  |
 |**Gulp/Webpack**                  | ![done][done]     |                        |                  |                  |                  |
 |**NPM**                           | ![done][done]     | ![done][done]          |                  |                  |                  |
@@ -106,16 +106,8 @@ Here is a complete log of my development skills, learning etc...
 | ![Completed][Completed]     | 2021       | [Vue mastery - Next-Level Vue]                                  |
 | ![Completed][Completed]     | 2022       | Udemy - Angular                                                 |
 | ![Completed][Completed]     | 2022       | [executeprogram.com - typescript]                               |
-|                             |            |                                                                 |
-| ![In Progress][In Progress] | 2022       | ASP.NET Core Developer. Advanced                                |
-| ![In Progress][In Progress] | 2022       | Udemy - React                                                   |
-| ![In Progress][In Progress] | 2022       | Udemy - Hibernate                                               |
-| ![In Progress][In Progress] | 2022       | Udemy - Spring                                                  |
-| ![In Progress][In Progress] | 2022       | Otus - Spring                                                   |
-| ![In Progress][In Progress] | 2022       | Otus - JavaScript Developer,  Advanced level                    |
-| ![In Progress][In Progress] | 2022       | Otus - Algorithms for developers                                |
 | ![In Progress][In Progress] | 2022       | [Algorithms and Data Structures Practice course]                |
-
+| ![Completed][Completed]     | 2022       | ASP.NET Core Developer. Advanced                                |
 
 
 [//]: # (Reference links to courses)
